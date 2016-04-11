@@ -1,1 +1,15 @@
 D:\Development\Learning\GuildMemberDetails\GuildMemberDetails\bin\Debug\GuildMemberDetails.exe.config
+C:\Learning Projects\GuildMemberStatus\GuildMemberDetails\bin\Debug\GuildMemberDetails.exe.config
+C:\Learning Projects\GuildMemberStatus\GuildMemberDetails\bin\Debug\GuildMemberDetails.exe
+C:\Learning Projects\GuildMemberStatus\GuildMemberDetails\bin\Debug\GuildMemberDetails.pdb
+C:\Learning Projects\GuildMemberStatus\GuildMemberDetails\bin\Debug\BattleDotNet.dll
+C:\Learning Projects\GuildMemberStatus\GuildMemberDetails\bin\Debug\Newtonsoft.Json.dll
+C:\Learning Projects\GuildMemberStatus\GuildMemberDetails\bin\Debug\BattleDotNet.pdb
+C:\Learning Projects\GuildMemberStatus\GuildMemberDetails\bin\Debug\Newtonsoft.Json.pdb
+C:\Learning Projects\GuildMemberStatus\GuildMemberDetails\bin\Debug\Newtonsoft.Json.xml
+C:\Learning Projects\GuildMemberStatus\GuildMemberDetails\obj\Debug\GuildMemberDetails.csprojResolveAssemblyReference.cache
+C:\Learning Projects\GuildMemberStatus\GuildMemberDetails\obj\Debug\GuildMemberDetails.Form1.resources
+C:\Learning Projects\GuildMemberStatus\GuildMemberDetails\obj\Debug\GuildMemberDetails.Properties.Resources.resources
+C:\Learning Projects\GuildMemberStatus\GuildMemberDetails\obj\Debug\GuildMemberDetails.csproj.GenerateResource.Cache
+C:\Learning Projects\GuildMemberStatus\GuildMemberDetails\obj\Debug\GuildMemberDetails.exe
+C:\Learning Projects\GuildMemberStatus\GuildMemberDetails\obj\Debug\GuildMemberDetails.pdb
